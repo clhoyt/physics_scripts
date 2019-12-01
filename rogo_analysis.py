@@ -4,7 +4,7 @@ Created on Tue Jun 06 08:22:55 2017
 
 @author: C.L. Hoyt
 """
-# Rogowski response
+""" This script spits out the response function for a Rogowski coil."""
 
 import numpy as np
 import matplotlib.pylab as plt
